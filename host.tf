@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "b" {
-  bucket = "awsbucketleena1"
+  bucket = "awsbucketleena4"
   acl    = "public-read"
   policy = file("policy.json")
 
