@@ -8,7 +8,7 @@
         "AWS": "*"
       },
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::awsbucketl1/*"
+      "Resource": "arn:aws:s3:::awsbucketleena4/*"
     }
   ]
 }
